@@ -23,7 +23,7 @@ img{
     width:550px;
 }
 div{
-    height:150px;
+    min-height:150px;
     padding:25px;
 }
 #red{
